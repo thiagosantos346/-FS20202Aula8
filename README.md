@@ -18,3 +18,7 @@
  
 - Use um navegador executando arquivo index.html
 - Uma demonstração será disponibilizada [aqui](https://thiagosantos346.github.io/-FS20202Aula8/).
+
+## Vídeo cast
+
+- Nesse vídeo, é demonstrado basicamente o funcionamento da calculadora, clique [aqui](https://drive.google.com/file/d/1DZTU6frLn1P60j2E49-SUft7vtV50xhY/view?usp=sharing).
